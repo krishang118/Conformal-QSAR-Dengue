@@ -1,0 +1,107 @@
+{
+  "baseline_precision": 0.6667,
+  "baseline_recall": 0.6341,
+  "n_test": 592,
+  "results_80pct": {
+    "confidence_level": 0.8,
+    "target_coverage": 0.8,
+    "empirical_coverage": 0.8159,
+    "n_certain": 490,
+    "n_ambiguous": 0,
+    "efficiency": 0.8277,
+    "n_conf_active": 10,
+    "precision_conf_active": 0.9
+  },
+  "results_90pct": {
+    "confidence_level": 0.9,
+    "target_coverage": 0.9,
+    "empirical_coverage": 0.9122,
+    "n_certain": 551,
+    "n_ambiguous": 0,
+    "efficiency": 0.9307,
+    "n_conf_active": 18,
+    "precision_conf_active": 0.9444
+  },
+  "all_levels": [
+    {
+      "confidence_level": 0.6,
+      "target_coverage": 0.6,
+      "empirical_coverage": 0.6199,
+      "n_certain": 370,
+      "n_ambiguous": 0,
+      "efficiency": 0.625,
+      "n_conf_active": 8,
+      "precision_conf_active": 0.875
+    },
+    {
+      "confidence_level": 0.65,
+      "target_coverage": 0.65,
+      "empirical_coverage": 0.6605,
+      "n_certain": 394,
+      "n_ambiguous": 0,
+      "efficiency": 0.6655,
+      "n_conf_active": 9,
+      "precision_conf_active": 0.8889
+    },
+    {
+      "confidence_level": 0.7,
+      "target_coverage": 0.7,
+      "empirical_coverage": 0.7247,
+      "n_certain": 433,
+      "n_ambiguous": 0,
+      "efficiency": 0.7314,
+      "n_conf_active": 9,
+      "precision_conf_active": 0.8889
+    },
+    {
+      "confidence_level": 0.75,
+      "target_coverage": 0.75,
+      "empirical_coverage": 0.7804,
+      "n_certain": 466,
+      "n_ambiguous": 0,
+      "efficiency": 0.7872,
+      "n_conf_active": 10,
+      "precision_conf_active": 0.9
+    },
+    {
+      "confidence_level": 0.8,
+      "target_coverage": 0.8,
+      "empirical_coverage": 0.8159,
+      "n_certain": 490,
+      "n_ambiguous": 0,
+      "efficiency": 0.8277,
+      "n_conf_active": 10,
+      "precision_conf_active": 0.9
+    },
+    {
+      "confidence_level": 0.85,
+      "target_coverage": 0.85,
+      "empirical_coverage": 0.8649,
+      "n_certain": 519,
+      "n_ambiguous": 0,
+      "efficiency": 0.8767,
+      "n_conf_active": 14,
+      "precision_conf_active": 0.9286
+    },
+    {
+      "confidence_level": 0.9,
+      "target_coverage": 0.9,
+      "empirical_coverage": 0.9122,
+      "n_certain": 551,
+      "n_ambiguous": 0,
+      "efficiency": 0.9307,
+      "n_conf_active": 18,
+      "precision_conf_active": 0.9444
+    },
+    {
+      "confidence_level": 0.95,
+      "target_coverage": 0.95,
+      "empirical_coverage": 0.9611,
+      "n_certain": 585,
+      "n_ambiguous": 7,
+      "efficiency": 0.9882,
+      "n_conf_active": 31,
+      "precision_conf_active": 0.7419
+    }
+  ]
+}

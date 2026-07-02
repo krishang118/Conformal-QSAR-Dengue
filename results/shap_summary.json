@@ -1,0 +1,15 @@
+{
+  "top_rdkit_descriptor": "qed",
+  "top_rdkit_mean_abs_shap": 0.0251,
+  "top5_rdkit_descriptors": [
+    "qed",
+    "FpDensityMorgan1",
+    "FpDensityMorgan2",
+    "SMR_VSA9",
+    "SlogP_VSA8"
+  ],
+  "top_ecfp4_bit": 1160,
+  "top_ecfp4_mean_abs_shap": 0.0236,
+  "n_test_compounds_rdkit": 592,
+  "n_test_compounds_ecfp4": 500
+}
