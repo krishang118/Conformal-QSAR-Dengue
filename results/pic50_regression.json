@@ -1,0 +1,13 @@
+{
+  "include_in_paper": false,
+  "cv_r2": 0.6473,
+  "cv_mae": 0.1338,
+  "cv_rmse": 0.2573,
+  "scaffold_r2": 0.4003,
+  "scaffold_mae": 0.1265,
+  "scaffold_rmse": 0.2474,
+  "scaffold_r2_actives_only": -4.5271,
+  "n_train": 2365,
+  "n_test": 592,
+  "cp_intervals": {}
+}

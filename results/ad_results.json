@@ -1,0 +1,14 @@
+{
+  "ad_threshold": 0.4296,
+  "z_score": 0.5,
+  "k_neighbours": 5,
+  "n_test": 592,
+  "n_inside_ad": 548,
+  "n_outside_ad": 44,
+  "pct_inside_ad": 92.6,
+  "auc_roc_overall": 0.9381,
+  "auc_roc_inside_ad": 0.9395,
+  "auc_roc_outside_ad": 0.9767,
+  "train_train_mean_sim": 0.4977,
+  "train_train_std_sim": 0.1363
+}

@@ -1,0 +1,9 @@
+{
+  "best_model_name": "Random Forest",
+  "best_fp_key": "rdkit",
+  "best_fp_label": "RDKit2D",
+  "auc_roc": 0.9487,
+  "auc_roc_std": 0.0071,
+  "auc_pr": 0.6515,
+  "mcc": 0.5811
+}

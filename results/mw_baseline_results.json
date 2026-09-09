@@ -1,0 +1,49 @@
+{
+  "models": {
+    "mw_only": {
+      "label": "MW-only LR",
+      "auc_roc": 0.7606,
+      "auc_roc_std": 0.0308,
+      "auc_pr": 0.3339,
+      "mcc": 0.2194
+    },
+    "rf_mw_only": {
+      "label": "RF + MW-only",
+      "auc_roc": 0.7077,
+      "auc_roc_std": 0.0489,
+      "auc_pr": 0.2456,
+      "mcc": 0.2618
+    },
+    "rf_rdkit_full": {
+      "label": "RF + RDKit2D (full)",
+      "auc_roc": 0.9487,
+      "auc_roc_std": 0.0071,
+      "auc_pr": 0.6515,
+      "mcc": 0.5811
+    },
+    "rf_rdkit_nomw": {
+      "label": "RF + RDKit2D (MW removed, 196 desc)",
+      "auc_roc": 0.948,
+      "auc_roc_std": 0.0071,
+      "auc_pr": 0.6499,
+      "mcc": 0.5723
+    }
+  },
+  "delta_rf_rdkit_vs_mw_lr": 0.1881,
+  "delta_rf_rdkit_vs_rf_mw": 0.241,
+  "delta_rf_rdkit_vs_nomw": 0.0007,
+  "mw_removed_cols": [
+    6,
+    7,
+    8,
+    18,
+    19
+  ],
+  "mw_removed_names": [
+    "MolWt",
+    "HeavyAtomMolWt",
+    "ExactMolWt",
+    "BCUT2D_MWHI",
+    "BCUT2D_MWLOW"
+  ]
+}

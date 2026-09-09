@@ -1,0 +1,13 @@
+{
+  "total_compounds": 2957,
+  "n_active": 205,
+  "n_inactive": 2752,
+  "class_balance_active_pct": 6.9,
+  "lipinski_pass": 2272,
+  "lipinski_pass_pct": 76.8,
+  "activity_threshold_nm": 10000,
+  "median_ic50_active": 5950.0,
+  "median_ic50_inactive": 99500.0,
+  "mw_mean": 400.3,
+  "logp_mean": 3.6
+}

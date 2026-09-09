@@ -1,0 +1,30 @@
+{
+  "scaffold_auc_roc": 0.8402,
+  "scaffold_auc_pr": 0.4154,
+  "scaffold_mcc": 0.3027,
+  "stratified_auc_roc": 0.9487,
+  "ef_results": {
+    "EF1": {
+      "ef": 13.449,
+      "ef_max": 100.0,
+      "ef_random": 1.0,
+      "ef_pct_max": 13.4
+    },
+    "EF5": {
+      "ef": 7.988,
+      "ef_max": 20.0,
+      "ef_random": 1.0,
+      "ef_pct_max": 39.9
+    },
+    "EF10": {
+      "ef": 4.85,
+      "ef_max": 10.0,
+      "ef_random": 1.0,
+      "ef_pct_max": 48.5
+    }
+  },
+  "bedroc_alpha20": 0.4731,
+  "random_bedroc_mean": 0.017,
+  "n_test": 659,
+  "n_test_active": 35
+}

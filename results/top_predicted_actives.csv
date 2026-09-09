@@ -1,0 +1,16 @@
+rank,chembl_id,confidence_pct,true_label,classification,ic50_nm,smiles
+1,COMPOUND_943,100.0,1,True Positive (TP),5.022276394711152,C[C@@](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCNC(=N)N)NC(=O)c1ccccc1)(C(N)=O)c1ccccc1
+2,COMPOUND_1785,100.0,1,True Positive (TP),5.0580912256344,NCc1cccc(NC(=O)[C@@H](NC(=O)OCc2ccccc2)c2ccc(Br)c(Cl)c2)c1
+3,COMPOUND_1554,100.0,1,True Positive (TP),5.309803919971486,N=C(N)Nc1ccc(CNC(=O)[C@@H](NC(=O)c2cccc(Oc3ccccc3)c2)c2ccc(OCc3ccccc3)cc2)cc1.O=C(O)C(F)(F)F
+4,COMPOUND_1555,100.0,0,False Positive (FP),4.619788758288394,N=C(N)Nc1ccc(CNC(=O)[C@@H](NC(=O)c2ccccc2-c2ccccc2)c2ccc(OCc3ccccc3)cc2)cc1.O=C(O)C(F)(F)F
+5,COMPOUND_1548,100.0,1,True Positive (TP),5.7447274948966935,N=C(N)Nc1ccc(CNC(=O)[C@@H](NC(=O)c2ccc(-c3ccccc3)cc2)c2ccc(OCc3ccccc3)cc2)cc1.O=C(O)C(F)(F)F
+6,COMPOUND_240,100.0,1,True Positive (TP),5.130768280269024,CCCCCC(=O)N[C@H](C(=O)NCc1ccc(NC(=N)N)cc1)c1ccc(OCc2ccc(C(F)(F)F)cc2)cc1.O=C(O)C(F)(F)F
+7,COMPOUND_1599,100.0,1,True Positive (TP),5.026872146400302,NCCCC[C@H](NC(=O)c1ccccc1)C(=O)N[C@@H](C(=O)N[C@H](C(N)=O)C1CCCCC1)c1ccc(OCc2ccccc2)cc1
+8,COMPOUND_1438,100.0,1,True Positive (TP),5.22548303427145,N#C/C(=C/c1ccc(-c2ccc(C(=O)O)cc2)s1)c1nc2cc(Cl)ccc2[nH]1
+9,COMPOUND_31,99.3,1,True Positive (TP),5.260506769218385,C=CC[C@H](Nc1ccc(-c2nn[nH]n2)cc1)c1cc(Cl)cc(NC(=O)OCc2ccccc2)c1
+10,COMPOUND_556,98.0,1,True Positive (TP),5.795880017344075,CN(C(=O)c1ccccc1)[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](C(N)=O)c1ccc(OCc2ccccc2)cc1
+11,COMPOUND_1550,97.3,1,True Positive (TP),5.229147988357856,N=C(N)Nc1ccc(CNC(=O)[C@@H](NC(=O)c2ccc(OC3CCCCC3)cc2)c2ccc(OCc3ccccc3)cc2)cc1.O=C(O)C(F)(F)F
+12,COMPOUND_847,97.0,1,True Positive (TP),6.301029995663981,COc1ccc(S(=O)(=O)n2nc(OC(=O)c3cccc(-c4ccccc4)c3)cc2N)cc1
+13,COMPOUND_2575,88.7,1,True Positive (TP),6.161150909262744,O=C(Nc1ccccc1)c1cc2cc(O)c(O)cc2o1
+14,COMPOUND_237,86.3,1,True Positive (TP),5.5376020021010435,CCCCCC(=O)N[C@H](C(=O)NCc1ccc(NC(=N)N)cc1)c1ccc(OCc2c(Cl)cccc2Cl)cc1.O=C(O)C(F)(F)F
+15,COMPOUND_2345,84.3,1,True Positive (TP),5.605548319173784,O=C(Nc1ccc(I)cc1)c1nc2cc(O)c(O)cc2s1

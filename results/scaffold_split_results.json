@@ -1,0 +1,13 @@
+{
+  "scaffold_auc_roc": 0.8427,
+  "scaffold_auc_pr": 0.4207,
+  "scaffold_mcc": 0.3389,
+  "stratified_cv_auc_roc": 0.9487,
+  "stratified_cv_auc_pr": 0.6515,
+  "stratified_cv_mcc": 0.5811,
+  "delta_auc_roc": -0.106,
+  "n_clusters": 1311,
+  "train_size": 2298,
+  "test_size": 659,
+  "test_actives": 35
+}

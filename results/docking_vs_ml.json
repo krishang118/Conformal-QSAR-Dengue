@@ -1,0 +1,37 @@
+{
+  "method_results": {
+    "Docking (Vina 1.2.7)": {
+      "EF1": 9.135,
+      "EF5": 5.653,
+      "EF10": 3.606,
+      "BEDROC": 0.3646
+    },
+    "ML (RF + RDKit2D)": {
+      "EF1": 12.02,
+      "EF5": 10.039,
+      "EF10": 7.651,
+      "BEDROC": 0.719
+    },
+    "Consensus": {
+      "EF1": 12.02,
+      "EF5": 9.844,
+      "EF10": 7.651,
+      "BEDROC": 0.7186
+    }
+  },
+  "note": "ML uses 5-fold OOF probabilities (fair comparison with docking)",
+  "n_compounds": 2957,
+  "n_failed_prep": 13,
+  "n_failed_dock": 0,
+  "box_center": [
+    30.1,
+    -31.5,
+    30.7
+  ],
+  "box_size": [
+    24.0,
+    24.0,
+    24.0
+  ],
+  "exhaustiveness": 4
+}

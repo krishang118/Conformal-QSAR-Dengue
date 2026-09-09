@@ -1,0 +1,13 @@
+{
+  "n_pains_actives": 23,
+  "n_actives": 205,
+  "pct_pains_actives": 11.2,
+  "n_pains_inactives": 49,
+  "n_inactives": 2752,
+  "pct_pains_inactives": 1.8,
+  "n_pains_total": 72,
+  "pct_pains_total": 2.4,
+  "auc_full": 0.9487,
+  "auc_pains_clean": 0.9317,
+  "delta_auc": -0.0171
+}
